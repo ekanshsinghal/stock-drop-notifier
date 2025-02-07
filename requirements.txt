@@ -2,3 +2,4 @@ beautifulsoup4
 lxml
 requests
 pyyaml
+python-telegram-bot==20.0
